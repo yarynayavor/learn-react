@@ -2,7 +2,7 @@
   "name": "todo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://yarynayavor.github.io/learn-react/todo-app",
+  "homepage": "http://yarynayavor.github.io/learn-react",
   "dependencies": {
     "@fortawesome/fontawesome": "^1.1.1",
     "@fortawesome/react-fontawesome": "0.0.17",
